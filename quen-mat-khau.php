@@ -6,7 +6,7 @@ require_once("class/cart.php");
 require_once("class/order.php");
 ?>
 
-<!doctype html>
+<!doctype html> 
 <html>
 
 <head>
